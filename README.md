@@ -5,9 +5,12 @@ GC Content Calculator and DNA to Protein Translator - Calculates GC%, Reverse Co
 - Protein Translation - Translates DNA codons to amino acids
 
 ## Example
+
 DNA: ATGCGACTATAGCTACTATACGATACGATACGATATATATACGATACGA
+
 Length: 49
 GC Content: 34.69%
+
 Reverse Complement: TCGTATCGTATATATATCGTATCGTATCGTATAGTAGCTATAGTCGCAT
 Protein: MRL*LLYDTIRYIYDT
 
